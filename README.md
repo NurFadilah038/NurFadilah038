@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on making website or application
-- 📫 How to reach me ....
+- 📫 How to reach me ? nurfadilahh038@gmail.com
 
 <!---
 NurFadilah038/NurFadilah038 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
