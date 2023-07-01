@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NurFadilah038
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning html
+- 👀 I’m interested in server administration, android developer and web developer
+- 🌱 I’m currently learning apache kafka
 - 💞️ I’m looking to collaborate on making website or application
 - 📫 How to reach me ? nurfadilahh038@gmail.com
 
